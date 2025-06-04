@@ -1,0 +1,60 @@
+.img-size{
+    height: 40px;
+}
+.bcolor{
+    border-bottom: 3px solid chartreuse;
+}
+.hcolor{
+    color:#6BC449;
+}
+.nav-link:hover{
+    color: #6BC449;
+}
+.pad{
+    padding-top: 150px;
+    padding-left: 50px;
+}
+.phone-logo{
+    width:100% ;
+    height: 90vh;
+}
+.btn-sm{
+    background-color: #6BC449;
+    border:0cap;
+    color: aliceblue;
+    height: 6vh;
+    width: 100px;
+}
+.for-invertor{
+    margin-left:250px ;
+}
+.banner-img1{
+    width: 80%;
+    height: 60vh;
+}
+.mobile1{
+    position: relative;
+    left: 120px;
+    width:30% ;
+    height:60vh;
+}
+.mobile2{
+    width: 30%;
+    height: 60vh;
+}
+.signup-button{
+    width:30%;
+    height:7vh ;
+     background-color:aliceblue;
+    border:0cap;
+    color:black;
+}
+.signup-bg{
+    background-color: #6BC449;
+}
+.insta{
+    padding: 10px;
+}
+.uparrow{
+    background-color: #6BC449;
+}
