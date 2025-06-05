@@ -49,6 +49,9 @@
     border:0cap;
     color:black;
 }
+.nav-link:hover{
+  color: #6BC449;
+}
 .signup-bg{
     background-color: #6BC449;
 }
